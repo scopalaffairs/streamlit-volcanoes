@@ -117,7 +117,7 @@ with left_column:
 # Flow control and plotting
 if selected_volcano_type == "All":
     selected_df = df
-elif show_active:
+if show_active:
     # st.session_state.selectbox = "All"
     selected_df = df[df["active"]]
 else:
