@@ -117,7 +117,7 @@ with left_column:
 # Flow control and plotting
 if selected_volcano_type == "All":
     selected_df = df
-if show_active:
+elif show_active:
     # st.session_state.selectbox = "All"
     selected_df = df[df["active"]]
 else:
@@ -160,7 +160,6 @@ for i, row in df.iterrows():
         + f"Type: {row['Type']}<br><br>"
         + f"Country: {row['Country']}<br>"
         + f"Elevation: {row['Elevation']} meters<br>"
-        + f"Active: {row['active']}"
     )
     text.append(tooltip)
 
