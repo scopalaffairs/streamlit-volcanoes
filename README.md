@@ -3,6 +3,6 @@
 
 Plotting with pyplot and plotly
 
-![Study geographic features](img/volcanoes.png)
+Experience the interactive app hosted on streamlit here <a href="https://scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app" target="_blank">scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app</a>
 
-Interactive plot hosted <a href="https://scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app" target="_blank">via streamlit app</a>
+![Study geographic features](img/volcanoes.png)
