@@ -1,4 +1,6 @@
-# streamlit-project
+# Volcanoes of the Earth
+### Study geographies
+
 Plotting with pyplot and plotly
 
 ![Study geographies of the World](img/volcanoes.png)
