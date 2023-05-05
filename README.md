@@ -1,6 +1,8 @@
-# streamlit-project
+# Volcanoes of the Earth
+### Study geographic features comparing volcano types interactively
+
 Plotting with pyplot and plotly
 
-![Study geographies of the World](img/volcanoes.png)
+Experience the interactive app hosted on streamlit here <a href="https://scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app" target="blank">scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app</a>
 
-Interactive plot hosted [via streamlit app](https://scopalaffairs-streamlit-project-volcanoes-of-the-earth-vfvfkf.streamlit.app)
+![Study geographic features](img/volcanoes.png)
